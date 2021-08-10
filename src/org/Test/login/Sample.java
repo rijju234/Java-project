@@ -20,5 +20,7 @@ public class Sample {
 		int length = s.length();
 		System.out.println(length);
 
+		int charNew = s.charAt(2);
+		System.out.println(charNew);
 }
 }
